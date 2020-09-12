@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "spotify-web-api-js": "^1.2.0",
     "spotify-web-api-node": "^4.0.0",
     "util": "^0.12.1"
